@@ -22,7 +22,7 @@ Bharadwaj Yellapragada
 | **#** | Task Name | Language | Started | Completed |
 | --- | --- | --- | --- | --- |
 | **1** | How many days went since I born? | Python | 10th Septmeber | 10th Septmeber |
-| **2** | Is that a leap year? | Python | | |
+| **2** | Is that a leap year? | Python | 11th Septmeber | 11th Septmeber |
 | **3** | Is that a odd multiple of 5? | Python | | |
 | **4** | Is the length of the list a even number? | Python | | |
 | **5** | What is the 6th character in the string | Python | | |
