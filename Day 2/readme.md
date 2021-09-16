@@ -1,4 +1,4 @@
-## **Day 1: Is that a leap year??**
+## **Day 2: Is that a leap year??**
 
 **Created on:** 11th September, 2021
 **Author:** Bharadwaj Yellapragada

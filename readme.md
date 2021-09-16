@@ -23,14 +23,14 @@ Bharadwaj Yellapragada
 | --- | --- | --- | --- | --- |
 | **1** | How many days went since I born? | Python | 10th Septmeber | 10th Septmeber |
 | **2** | Is that a leap year? | Python | 11th Septmeber | 11th Septmeber |
-| **3** | Is that a odd multiple of 5? | Python | | |
-| **4** | Is the length of the list a even number? | Python | | |
-| **5** | What is the 6th character in the string | Python | | |
-| **6** | How many characters are common in both strings? | Python | | |
-| **7** | Take your name, show me alphabetical position of each letter in your name as a dictionary | Python | | |
+| **3** | Is that a odd multiple of 5? | Python | 16th Septmeber | 16th Septmeber |
+| **4** | Is the length of the list a even number? | Python | 16th Septmeber | 16th Septmeber |
+| **5** | What is the 6th character in the string | Python | 16th Septmeber | 16th Septmeber |
+| **6** | How many characters are common in both strings? | Python | 16th Septmeber | 16th Septmeber |
+| **7** | Encrypt your name with alphabetical position of each letter | Python | 16th Septmeber | 16th Septmeber |
 | **8** | Separate list of alphanumerical items into alphabets and numbers | Python | | |
 | **9** | Calculate square feet from length and breath taken in centimeters | Python | | |
-| **10** | Remove duplicates in the list | Python | | | |
+| **10** | Remove duplicates in the list | Python | | |
 
 
 Resources:
