@@ -28,7 +28,7 @@ Bharadwaj Yellapragada
 | **5** | What is the 6th character in the string | Python | 16th Septmeber | 16th Septmeber |
 | **6** | How many characters are common in both strings? | Python | 16th Septmeber | 16th Septmeber |
 | **7** | Encrypt your name with alphabetical position of each letter | Python | 16th Septmeber | 16th Septmeber |
-| **8** | Separate list of alphanumerical items into alphabets and numbers | Python | | |
+| **8** | Separate alphanumerical string into list of alphabets and numbers | Python | 17th Septmeber | 17th Septmeber |
 | **9** | Calculate square feet from length and breath taken in centimeters | Python | | |
 | **10** | Remove duplicates in the list | Python | | |
 

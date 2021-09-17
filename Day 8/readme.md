@@ -1,17 +1,20 @@
-## **Day 7: Encrypt your name with alphabetical position of each letter**
+## **Day 8: Separate alphanumerical string into list of alphabets and numbers	**
 
-**Created on:** 16th September, 2021
+**Created on:** 17th September, 2021
 **Author:** Bharadwaj Yellapragada
 
 
 ##### Input
-<code>Enter your name:</code>bharadwaj
+<code>Enter input:</code>a1b2c3
 
 ##### Output
-<code>Encrypted name:</code>281181423110
+<code>alphabets: ['a', 'b', 'c']
+numbers: ['1', '2', '3']</code>
 
 ##### Input
-<code>Enter your name:</code>abcd1234
+<code>Enter input:</code>a1b@c3
 
 ##### Output
-<code>Encrypted name:</code>12341234
+<code>Enter only alphanumeric characters!</code>
+
+<code>Enter input:</code>
